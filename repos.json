@@ -1,6 +1,6 @@
 [  {
     "kernelSource": {
-      "name": "kernel_pixel_gauguin",
+      "name": "kernel_pixelos_gauguin",
       "repo": "https://github.com/snove520/kernel_pixelos_gauguin",
       "branch": "fourteen",
       "device": "gauguin"
